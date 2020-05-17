@@ -1,0 +1,39 @@
+.cursor-pointer{
+    cursor: pointer;
+}
+body{
+    background-image: linear-gradient(to right,#378566,#c8e6c9);
+}
+h3,h4{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 27px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+}
+.lead{
+    text-align: center;
+}
+.jumbotron,jumbotron-fluid{
+    background-color:whitesmoke;
+    margin-top: 15px;
+    opacity: 0.8;
+    border: 1px solid black;
+}
+.card{
+    width: auto;
+    height: 330px;
+    background-color: #272d33;
+    border: 1px solid whitesmoke;
+    color: whitesmoke;
+    opacity: 0.9;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+}
+.page-link{
+    color:whitesmoke;
+    background-color: #272d33;
+    border: 2px solid whitesmoke;
+    justify-content: space-around;
+}
